@@ -1,0 +1,5 @@
+#Q7/14 - Introduction to bitwise operations
+
+print bin(0b1110 & 0b101)
+
+#NB: bin is the function to use the & operation of comparning two numbers on a bit level.
